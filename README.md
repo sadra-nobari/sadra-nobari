@@ -26,5 +26,3 @@ Dedicated coder with two years of self-driven learning and development. I starte
 
 <a href="http://www.github.com/sadra-nobari"><img src="https://github-readme-stats.vercel.app/api?username=sadra-nobari&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=14532d&hide_border=true&show_icons=true" alt="sadra-nobari's GitHub stats" /></a>
 
-random meme:
-<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
