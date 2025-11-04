@@ -3,6 +3,7 @@ Hi 👋 My name is sadra
 
 Python Developer | Open-Source Enthusiast 🐍🐧
 ----------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=pip+install+coffee+code+sleep)](https://git.io/typing-svg)
 
 Dedicated coder with two years of self-driven learning and development. I started my journey with C and web technologies (HTML/CSS, JavaScript) before making a focused switch to Python,Passionate about the open-source community and working with Linux-based operating systems.
 
